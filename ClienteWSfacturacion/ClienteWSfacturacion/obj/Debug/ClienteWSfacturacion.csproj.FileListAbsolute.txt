@@ -1,0 +1,10 @@
+C:\Users\Luis Sanchez\source\repos\ClienteWSfacturacion\ClienteWSfacturacion\bin\Debug\ClienteWSfacturacion.exe.config
+C:\Users\Luis Sanchez\source\repos\ClienteWSfacturacion\ClienteWSfacturacion\bin\Debug\ClienteWSfacturacion.exe
+C:\Users\Luis Sanchez\source\repos\ClienteWSfacturacion\ClienteWSfacturacion\bin\Debug\ClienteWSfacturacion.pdb
+C:\Users\Luis Sanchez\source\repos\ClienteWSfacturacion\ClienteWSfacturacion\obj\Debug\ClienteWSfacturacion.csprojAssemblyReference.cache
+C:\Users\Luis Sanchez\source\repos\ClienteWSfacturacion\ClienteWSfacturacion\obj\Debug\ClienteWSfacturacion.Form1.resources
+C:\Users\Luis Sanchez\source\repos\ClienteWSfacturacion\ClienteWSfacturacion\obj\Debug\ClienteWSfacturacion.Properties.Resources.resources
+C:\Users\Luis Sanchez\source\repos\ClienteWSfacturacion\ClienteWSfacturacion\obj\Debug\ClienteWSfacturacion.csproj.GenerateResource.cache
+C:\Users\Luis Sanchez\source\repos\ClienteWSfacturacion\ClienteWSfacturacion\obj\Debug\ClienteWSfacturacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis Sanchez\source\repos\ClienteWSfacturacion\ClienteWSfacturacion\obj\Debug\ClienteWSfacturacion.exe
+C:\Users\Luis Sanchez\source\repos\ClienteWSfacturacion\ClienteWSfacturacion\obj\Debug\ClienteWSfacturacion.pdb
